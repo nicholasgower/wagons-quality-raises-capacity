@@ -1,15 +1,15 @@
 {
-  "name": "[internal-mod-name]",
+  "name": "wagons-quality-raises-capacity",
   "version": "0.0.0",
-  "title": "[MOD DISPLAY NAME]",
-  "author": "[YOUR MODS.FACTORIO.COM USERNAME]",
-  "homepage": "[HOMEPAGE/REPO URL]",
-  "description": "[SHORT DESCRIPTION]",
+  "title": "Wagons: Quality raises capacity",
+  "author": "MeteorSwarm",
+  "homepage": "https://discord.gg/8pD6A3JRtZ",
+  "description": "All cargo wagons and fluid wagons will have their capacity increase with quality.",
   "factorio_version": "2.0",
   "dependencies": [
-    "base"
+    "base >= 2.0.29"
   ],
-  "quality_required": false,
+  "quality_required": true,
   "rail_bridges_required": false,
   "space_travel_required": false,
   "spoiling_required": false,
